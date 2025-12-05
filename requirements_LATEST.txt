@@ -1,0 +1,11 @@
+# UPI Fraud Detection - Updated for Python 3.12
+# Latest compatible versions
+
+numpy>=1.24.0
+pandas>=2.1.0
+scikit-learn>=1.3.2
+Flask>=3.0.0
+Flask-CORS>=4.0.0
+gunicorn>=21.2.0
+python-dotenv>=1.0.0
+requests>=2.31.0
